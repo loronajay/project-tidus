@@ -258,3 +258,5 @@ The next useful supporting artifacts are:
 - A subsystem procurement sheet
 - A phase-by-phase build checklist
 - A simple test log template
+
+The logging follow-on is documented in `docs/test-log-template.md`.

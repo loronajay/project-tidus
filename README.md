@@ -10,6 +10,8 @@ The current repository is centered on early definition and planning documents th
 - `docs/phase-1-prototype-architecture-definition.md`
 - `docs/system-block-diagram-and-interface-map.md`
 - `docs/prototype-build-plan.md`
+- `docs/safety-and-test-checklist.md`
+- `docs/test-log-template.md`
 
 ## Working Principles
 
@@ -25,3 +27,4 @@ The project is currently in concept and prototype planning. The next likely arti
 - A subsystem procurement sheet
 - A phase-by-phase build checklist
 - A safety and test checklist
+- A reusable test log workflow
