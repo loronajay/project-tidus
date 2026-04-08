@@ -376,4 +376,4 @@ Avoid these:
 
 This sheet defines what Tidus needs to start making real progress and which purchases should happen first.
 
-The next useful supporting artifact is a phase-by-phase build checklist that turns procurement and planning into concrete task execution.
+The execution follow-on is documented in `docs/phase-by-phase-build-checklist.md`.

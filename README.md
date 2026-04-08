@@ -10,6 +10,7 @@ The current repository is centered on early definition and planning documents th
 - `docs/phase-1-prototype-architecture-definition.md`
 - `docs/system-block-diagram-and-interface-map.md`
 - `docs/prototype-build-plan.md`
+- `docs/phase-by-phase-build-checklist.md`
 - `docs/safety-and-test-checklist.md`
 - `docs/subsystem-procurement-sheet.md`
 - `docs/test-log-template.md`
@@ -25,7 +26,6 @@ The current repository is centered on early definition and planning documents th
 
 The project is currently in concept and prototype planning. The next likely artifacts are:
 
-- A phase-by-phase build checklist
-- A safety and test checklist
-- A reusable test log workflow
-- A first-pass getting-started execution checklist
+- A first-pass investor demo criteria document
+- A first concrete procurement shortlist by part class
+- The first real test log entries

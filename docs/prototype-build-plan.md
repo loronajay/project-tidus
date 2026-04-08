@@ -332,6 +332,7 @@ The next actionable planning step after this document is to convert the phases a
 - A safety and test checklist tied to the commissioning gates
 
 The procurement follow-on is documented in `docs/subsystem-procurement-sheet.md`.
+The execution follow-on is documented in `docs/phase-by-phase-build-checklist.md`.
 The safety follow-on is documented in `docs/safety-and-test-checklist.md`.
 
 ## 10. Document Outcome
