@@ -331,6 +331,8 @@ The next actionable planning step after this document is to convert the phases a
 - A build checklist by phase
 - A safety and test checklist tied to the commissioning gates
 
+The safety follow-on is documented in `docs/safety-and-test-checklist.md`.
+
 ## 10. Document Outcome
 
 This document defines the sequence for building the first Tidus prototype in a way that reduces ambiguity, protects time and money, and keeps the project aligned with the locked product thesis.
