@@ -11,6 +11,7 @@ The current repository is centered on early definition and planning documents th
 - `docs/system-block-diagram-and-interface-map.md`
 - `docs/prototype-build-plan.md`
 - `docs/safety-and-test-checklist.md`
+- `docs/subsystem-procurement-sheet.md`
 - `docs/test-log-template.md`
 
 ## Working Principles
@@ -24,7 +25,7 @@ The current repository is centered on early definition and planning documents th
 
 The project is currently in concept and prototype planning. The next likely artifacts are:
 
-- A subsystem procurement sheet
 - A phase-by-phase build checklist
 - A safety and test checklist
 - A reusable test log workflow
+- A first-pass getting-started execution checklist
